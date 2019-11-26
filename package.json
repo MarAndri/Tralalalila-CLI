@@ -1,0 +1,30 @@
+{
+    "name": "@marahand/holidates",
+    "version": "1.0.0",
+    "bin": "./index.js",
+    "description": "Command line tool to retrieve holidays by country",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MarAndri/Tralalalila-CLI.git"
+    },
+    "keywords": [
+        "becode",
+        "nage",
+        "cli",
+        "node.js"
+    ],
+    "author": "Marah Andrioli",
+    "license": "MIT",
+    "homepage": "https://github.com/MarAndri/Tralalalila-CLI#readme",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "country-list": "^2.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.6.0"
+    }
+}
